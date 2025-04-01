@@ -29,6 +29,17 @@
   },
   "work": [
     {
+      "name": "Degestec",
+      "position": "Desarrollador FullStack",
+      "url": "https://www.degestec.com/",
+      "startDate": "2025-01-23",
+      "endDate": "Current",
+      "summary": "Desarrollador fullstack con Laravel y Vue. ",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
       "name": "Sodecia Automotive",
       "position": "Desarrollador FullStack",
       "url": "https://www.sodecia.com/",
@@ -139,6 +150,13 @@
       ]
     },
     {
+      "name": "Laravel",
+      "level": "Medio",
+      "keywords": [
+        "Bases de Datos", "Logíca", "Backend"
+      ]
+    },
+    {
       "name": "Git",
       "level": "Avanzado",
       "keywords": [
@@ -155,6 +173,13 @@
   
     {
       "name": "React",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+     {
+      "name": "Vue",
       "level": "Junior",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
